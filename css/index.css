@@ -60,6 +60,11 @@ body {
     list-style: none;
 }
 
+nav a {
+    list-style: none;
+    color: #FFF;
+}
+
 .opcoes ul li a {
     color: #FFF;
 }
@@ -88,14 +93,16 @@ body {
     .topo {
         padding-top: 5px;
     }
+
+    .opcoes {
+        margin-right: 20px;
+        gap: 20px;
+    }
     .cabecalho_i {
         font-size: 12px;
         z-index: 3;
         justify-content: flex-end;
         height: 30px;
-    }
-    .opcoes {
-        display: none;
     }
 
 }
@@ -138,9 +145,6 @@ body {
 /* RESPONSIVIDADE DO CABEÇALHO  PARTE II*/
 
 @media (max-width: 1000px) {
-    .cabecalho_i {
-        display: none;
-    }
     .cabecalho_ii {
         color: #FFF;
         display: flex;
@@ -243,6 +247,18 @@ main{
     display: flex;
     padding: 20px 0px;
     max-width: 1500px;
+    overflow-x: scroll;
+    margin: 0% 1%;
+}
+
+#linguagens_nome::-webkit-scrollbar {
+    background-color: #000009;
+    border-radius: 15px;
+}
+#linguagens_nome::-webkit-scrollbar-thumb {
+    background-color: #FF9B54;
+    border-radius: 15px;
+    height: 10%;
 }
 
 #html {
@@ -332,17 +348,6 @@ main{
         overflow-x: scroll;
         margin: 0% 1%;
         margin: 0px 20px;
-    }
-
-    #linguagens_nome::-webkit-scrollbar {
-        background-color: #000009;
-        border-radius: 15px;
-    }
-
-    #linguagens_nome::-webkit-scrollbar-thumb {
-        background-color: #FF9B54;
-        border-radius: 15px;
-        height: 10%;
     }
 
     #linguagens_nome img {
@@ -449,7 +454,6 @@ main{
 }
 
 
-
 /* RESPONSIVIDADE DOS PROJETOS*/
 @media (max-width: 1000px) {
     #titulo_projetos {
@@ -460,7 +464,7 @@ main{
 
     #projetos_nome {
         display: flex;
-        overflow-x: scroll;
+        flex-direction: column;
         padding: 20px 0px;
         gap: 20px;
     }
