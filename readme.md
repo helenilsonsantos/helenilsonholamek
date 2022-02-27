@@ -13,8 +13,8 @@ Link:  http://helenilson.meuhg.com/
 
 Sobre Mim
 
-👨‍💻 Desenvolvedor FullStack
-📚 Barcharel em Ciências Contábeis
-📊 Mba em Gestão Financeira e Controladoria
-👨‍🏫 Especialista em Docência do Ensino Superior
+👨‍💻 Desenvolvedor FullStack <br>
+📚 Barcharel em Ciências Contábeis <br>
+📊 Mba em Gestão Financeira e Controladoria <br>
+👨‍🏫 Especialista em Docência do Ensino Superior <br>
 👔 Sócio Administrador do Hg Consultoria
