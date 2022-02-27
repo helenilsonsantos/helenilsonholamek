@@ -1,6 +1,6 @@
 ### Olá, tudo bem? 😀
 
-Desenvolvo sistemas, sites e aplicativos para deixar o seu negócio do jeito que sempre idealizou. Agende uma reunião e veja como posso ajudar a sua empresa. Você pode conhecer  mais no meu  trabalho em projetos já lançados, acesse o link abaixo para conhecer os meus projetos já lançados.
+Desenvolvo sistemas, sites e aplicativos para web para deixar o seu negócio do jeito que sempre idealizou. Agende uma reunião comigo e veja como posso ajudar a sua empresa. Você também pode conhecer mais do meu trabalho em projetos já lançados, acesse o link abaixo e confira!
 
 Link:  http://helenilson.meuhg.com/
 
@@ -10,17 +10,11 @@ Link:  http://helenilson.meuhg.com/
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenilsonholamek&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<!--
-**helenilsonholamek/helenilsonholamek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Desenvolvedor FullStack
+📚 Barcharel em Ciências Contábeis
+📊 Mba em Gestão Financeira e Controladoria
+👨‍🏫 Especialista em Docência do Ensino Superior
+👔 Sócio Administrador do Hg Consultoria
