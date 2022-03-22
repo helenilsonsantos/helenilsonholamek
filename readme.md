@@ -17,13 +17,17 @@ Sobre Mim
 📚 Barcharel em Ciências Contábeis <br>
 📊 Mba em Gestão Financeira e Controladoria <br>
 👨‍🏫 Especialista em Docência do Ensino Superior <br>
-👔 Sócio Administrador do Hg Consultoria
+👔 Sócio Administrador do Hg Consultoria <br>
 
 Principais Linguagens
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg ">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
+</div>
+
+Bancos de Dados
+<div style="display: inline_block"><br>
+  <img align="center" alt="MySql" height="30" width="40" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 </div>
