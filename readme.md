@@ -19,10 +19,28 @@ Sobre Mim
 👨‍🏫 Especialista em Docência do Ensino Superior <br>
 👔 Sócio Administrador do Hg Consultoria <br>
 
-Principais Linguagens
-<div style="display: inline_block"><br>
+Versionamento de Código
+<div style="display: inline_block">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg ">
+</div><br>
+
+Desenvolvimento Web
+
+<div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
+</div><br>
+
+Desenvolvimento Mobile
+
+<div style="display: inline_block">
+  <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div><br>
+
+Banco de Dados e BackEnd
+
+<div style="display: inline_block">
+  <img align="center" alt="MYSQL" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div><br>
